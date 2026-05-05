@@ -9,13 +9,15 @@
 
 ---
 
+---
+
 ## 👋 **About Me**
 
 I'm a creative **Frontend Developer** specializing in high-performance dashboards and modern web applications. I bridge the gap between complex backend logic (Supabase) and fluid, interactive UIs.
 
 - 🚀 **Core Expertise:** Next.js (App Router), Supabase Auth/DB, & Tailwind CSS.
 - 🌍 **Localization:** Expert in building **RTL/LTR** multilingual applications.
-- 🛠️ **Current Focus:** Scaling **Boardly** and mastering advanced UI motion.
+- 🎯 **Current Focus:** Building **AI-Powered Search Engines** using modern **ORMs** and architecting robust **Backend APIs**.
 
 <br/>
 
@@ -30,11 +32,11 @@ I'm a creative **Frontend Developer** specializing in high-performance dashboard
 
 | Service | Description |
 | :--- | :--- |
-| **🚀 Full-stack Web Apps** | Building scalable applications from scratch using **Next.js** and **Supabase**. |
+| **🤖 AI Integration** | Developing intelligent search interfaces and connecting AI models to web apps. |
+| **🔌 API Architecture** | Designing and building scalable RESTful & GraphQL APIs using Next.js Route Handlers. |
+| **🗄️ Database Management** | Expert handling of relational databases using **ORMs** for type-safe data fetching. |
 | **📊 Admin Dashboards** | Creating complex data visualization tools with **Recharts** and high-level state management. |
-| **💎 UI/UX Implementation** | Converting Figma designs into pixel-perfect, responsive, and animated interfaces. |
 | **🌐 Localization (RTL)** | Specialized support for Arabic/English apps with seamless direction switching. |
-| **⚡ Performance Optimization** | Improving Core Web Vitals, SEO, and lightning-fast loading states. |
 
 ---
 
@@ -44,9 +46,9 @@ I'm a creative **Frontend Developer** specializing in high-performance dashboard
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/> 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zustand-orange?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
 ---
