@@ -10,7 +10,6 @@
 ---
 
 ---
-
 ---
 
 ## 👋 **About Me**
@@ -20,9 +19,9 @@ I'm a creative **Frontend Developer** specializing in high-performance dashboard
 - 🚀 **Core Expertise:** Next.js (App Router), Supabase Auth/DB, & Tailwind CSS.
 - 🌍 **Localization:** Expert in building **RTL/LTR** multilingual applications.
 - 🎯 **Current Focus:** 
-  - 🧠 Exploring **AI integration** to enhance development workflows and user experiences.
-  - 🛠️ Deep diving into **ORMs** for robust database management.
-  - 🔐 Mastering **API construction** and advanced **Authentication** patterns.
+  - 🛠️ Deep diving into **ORMs** (like Prisma/Drizzle) to build more robust data layers.
+  - 🔐 Mastering advanced **Authentication** & **Secure API** construction.
+  - 🧠 Exploring **AI features** to enhance development speed and user experience.
 
 <br/>
 
@@ -33,28 +32,18 @@ I'm a creative **Frontend Developer** specializing in high-performance dashboard
 
 ---
 
-## 🛠️ **What I Can Do For You (Services)**
-
-| Service | Description |
-| :--- | :--- |
-| **🚀 Full-stack Development** | Building end-to-end applications with secure **Auth** and scalable **APIs**. |
-| **🗄️ Database Logic** | Implementing clean data layers using modern **ORMs** for type-safe applications. |
-| **📊 Admin Dashboards** | Creating complex data visualization tools with **Recharts** and high-level state management. |
-| **🌐 Localization (RTL)** | Specialized support for Arabic/English apps with seamless direction switching. |
-| **⚡ Smart Workflows** | Utilizing **AI features** to optimize performance and deliver modern UI solutions. |
-
----
-
 # 🚀 **Tech Stack & Mastery**
 
 ### **The "Daily Driver" Stack**
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/> 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-orange?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
+
+---
 
 ---
 
