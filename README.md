@@ -14,7 +14,7 @@
 I'm a creative **Frontend Developer** who loves building dashboards, animations, and real‑world applications.  
 I enjoy solving problems, learning new technologies, and creating smooth user experiences — especially with **APIs**, **ORM**, and modern frontend tools.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" width="300"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
 
 - 📫 Email: **akak678h@gmail.com**
 - 🔗 LinkedIn: [ahmad-ismail](https://www.linkedin.com/in/ahmad-ismail-5b440a38a)
