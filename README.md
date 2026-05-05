@@ -11,13 +11,18 @@
 
 ---
 
+---
+
 ## 👋 **About Me**
 
-I'm a creative **Frontend Developer** specializing in high-performance dashboards and modern web applications. I bridge the gap between complex backend logic (Supabase) and fluid, interactive UIs.
+I'm a creative **Frontend Developer** specializing in high-performance dashboards and modern web applications. I bridge the gap between complex backend logic and fluid, interactive UIs.
 
 - 🚀 **Core Expertise:** Next.js (App Router), Supabase Auth/DB, & Tailwind CSS.
 - 🌍 **Localization:** Expert in building **RTL/LTR** multilingual applications.
-- 🎯 **Current Focus:** Building **AI-Powered Search Engines** using modern **ORMs** and architecting robust **Backend APIs**.
+- 🎯 **Current Focus:** 
+  - 🧠 Exploring **AI integration** to enhance development workflows and user experiences.
+  - 🛠️ Deep diving into **ORMs** for robust database management.
+  - 🔐 Mastering **API construction** and advanced **Authentication** patterns.
 
 <br/>
 
@@ -32,11 +37,11 @@ I'm a creative **Frontend Developer** specializing in high-performance dashboard
 
 | Service | Description |
 | :--- | :--- |
-| **🤖 AI Integration** | Developing intelligent search interfaces and connecting AI models to web apps. |
-| **🔌 API Architecture** | Designing and building scalable RESTful & GraphQL APIs using Next.js Route Handlers. |
-| **🗄️ Database Management** | Expert handling of relational databases using **ORMs** for type-safe data fetching. |
+| **🚀 Full-stack Development** | Building end-to-end applications with secure **Auth** and scalable **APIs**. |
+| **🗄️ Database Logic** | Implementing clean data layers using modern **ORMs** for type-safe applications. |
 | **📊 Admin Dashboards** | Creating complex data visualization tools with **Recharts** and high-level state management. |
 | **🌐 Localization (RTL)** | Specialized support for Arabic/English apps with seamless direction switching. |
+| **⚡ Smart Workflows** | Utilizing **AI features** to optimize performance and deliver modern UI solutions. |
 
 ---
 
