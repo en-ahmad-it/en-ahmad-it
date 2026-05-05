@@ -106,7 +106,8 @@ A professional portfolio website with smooth animations, 3D motion effects, and 
 # 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=en-ahmad-it&show_icons=true&theme=gotham" height="160"/>
+  <img src="[https://github-readme-stats.vercel.app/api?username=en-ahmad-it&show_icons=true&theme=gotham" height="160](https://github-readme-stats.vercel.app/api?username=en-ahmad-it&show_icons=true&theme=gotham
+)"/>
 </p>
 
 ---
