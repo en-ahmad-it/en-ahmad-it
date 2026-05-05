@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="35"/>
-  Hey, nice to see you.
+  Hey, I'm Ahmad
 </h1>
 
 <p align="center">
@@ -9,102 +9,69 @@
 
 ---
 
-## 👋 **Hi, I'm Ahmad IT**
+## 👋 **About Me**
 
-I'm a creative **Frontend Developer** who loves building dashboards, animations, and real‑world applications.  
-I enjoy solving problems, learning new technologies, and creating smooth user experiences — especially with **APIs**, **ORM**, and modern frontend tools.
+I'm a creative **Frontend Developer** specializing in high-performance dashboards and modern web applications. I bridge the gap between complex backend logic (Supabase) and fluid, interactive UIs.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+- 🚀 **Core Expertise:** Next.js (App Router), Supabase Auth/DB, & Tailwind CSS.
+- 🌍 **Localization:** Expert in building **RTL/LTR** multilingual applications.
+- 🛠️ **Current Focus:** Scaling **Boardly** and mastering advanced UI motion.
 
-- 📫 Email: **akak678h@gmail.com**
-- 🔗 LinkedIn: [ahmad-ismail](https://www.linkedin.com/in/ahmad-ismail-5b440a38a)
-- 📸 Instagram: [ahmad_esmail_it](https://www.instagram.com/ahmad_esmail_it)
-- 👍 Facebook: [Ahmad IT](https://www.facebook.com/share/1F6qcxatF2/)
-- 🌐 Portfolio: [Ahmad IT](https://ahmad-it-protofolio.vercel.app/)
+<br/>
 
-<br>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=en-ahmad-it&color=blue" alt="profile views" />
+### 📊 **GitHub Activity**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=en-ahmad-it&theme=tokyonight" alt="Ahmad's GitHub Streak" />
 </p>
 
 ---
 
-# 🚀 **My Tech Stack**
+## 🛠️ **What I Can Do For You (Services)**
 
-### **Core Stack**
+| Service | Description |
+| :--- | :--- |
+| **🚀 Full-stack Web Apps** | Building scalable applications from scratch using **Next.js** and **Supabase**. |
+| **📊 Admin Dashboards** | Creating complex data visualization tools with **Recharts** and high-level state management. |
+| **💎 UI/UX Implementation** | Converting Figma designs into pixel-perfect, responsive, and animated interfaces. |
+| **🌐 Localization (RTL)** | Specialized support for Arabic/English apps with seamless direction switching. |
+| **⚡ Performance Optimization** | Improving Core Web Vitals, SEO, and lightning-fast loading states. |
+
+---
+
+# 🚀 **Tech Stack & Mastery**
+
+### **The "Daily Driver" Stack**
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge"/>
-</p>
-
-### **Frontend**
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Zustand-orange?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
-
-### **Backend & APIs**
-<p>
-  <img src="https://img.shields.io/badge/Supabase%20Auth-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase%20API-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=api&logoColor=white"/>
-</p>
-
-### **Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
-# 🔥 **What I'm Working On**
-- Building **Boardly** — a modern Kanban dashboard with:
-  - Next.js  
-  - Supabase Auth  
-  - Zustand  
-  - Tailwind  
-  - shadcn/ui  
-  - Drag & Drop  
-  - RTL/LTR  
-  - Multi-language  
-  - Recharts Dashboard  
-
-- Improving my **Supabase + Next.js** full-stack workflow  
-- Learning more about **advanced UI/UX patterns**  
-- Building reusable components and animations  
 
 ---
 
 # 📌 **Featured Projects**
 
-### **boardly – Task Management Dashboard**
-A modern and interactive Kanban dashboard with multilingual support, drag‑and‑drop, Supabase Auth, Zustand state management, and a clean UI.
+### 📊 **Boardly – SaaS Task Management**
+A premium Kanban dashboard with real-time updates, drag-and-drop functionality, and full analytics.
+- **Key Features:** Supabase Auth, Zustand State, RTL Support, Recharts Integration.
+- [🌐 Live Demo](https://boardly-ten.vercel.app/) | [📁 Repository](https://github.com/en-ahmad-it)
 
-👉 **Live Demo:** https://boardly-ten.vercel.app/  
-👉 **Repo:** *(coming soon)*
-
----
-
-### **Civil Engineer Portfolio**
-A professional portfolio website with smooth animations, 3D motion effects, and a clean UI.
-
-👉 **Live Demo:** https://en-ali-civil.netlify.app/  
-👉 **Repo:** *(coming soon)*
+### 🏗️ **Civil Engineer Portfolio**
+A high-end professional portfolio featuring 3D effects and smooth transitions.
+- [🌐 Live Demo](https://en-ali-civil.netlify.app/)
 
 ---
+
+# 📫 **Connect With Me**
+
+<p align="left">
+  <a href="mailto:akak678h@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ahmad-ismail-5b440a38a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ahmad_esmail_it"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 <div align="center">
-
-### ⭐ Show some love by starring repositories!
-
+  <img src="https://komarev.com/ghpvc/?username=en-ahmad-it&color=blue" alt="profile views" />
 </div>
